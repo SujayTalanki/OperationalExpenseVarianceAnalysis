@@ -1,0 +1,146 @@
+ACCOUNT_CODE,ACCOUNT_DESCRIPTION,CHARGE_CATEGORY,CHARGE_CATEGORY.1
+50105000,[CAM] Security,Security,Common Area Maintenance
+50110000,[CAM] Contract - Security,Security,Common Area Maintenance
+50205000,[CAM] Engineer Salary / Benefits - External,Property Administrative Fees,Common Area Maintenance
+50210000,[CAM] Property Manager Salary/Benefits - External,Property Administrative Fees,Common Area Maintenance
+50220000,[CAM] Property Management Admin Fee - External,Property Administrative Fees,Common Area Maintenance
+50230000,[CAM] Property Manager Direct Charges - External,Property Administrative Fees,Common Area Maintenance
+50255000,[CAM] Engineer Salaries and Expenses,Property Administrative Fees,Common Area Maintenance
+50290000,[CAM] Maintenance Services Fee,Property Administrative Fees,Common Area Maintenance
+50305000,[CAM] Alterations and Repairs,General Building Maintenance,Common Area Maintenance
+50305021,[CAM] Painting and Caulking,General Building Maintenance,Common Area Maintenance
+50305025,[CAM] Plumbing and Sewer,General Building Maintenance,Common Area Maintenance
+50305027,[CAM] Interior Slab Maintenance,General Building Maintenance,Common Area Maintenance
+50305028,[CAM] Exterior Asphalt and Concrete,General Building Maintenance,Common Area Maintenance
+50310000,[CAM] Electrical and Lighting - Reactive,General Building Maintenance,Common Area Maintenance
+50315000,[CAM] Structural and Foundation Repairs,General Building Maintenance,Common Area Maintenance
+50320000,[CAM] Contract - Roof Maintenance,Roof R&M,Common Area Maintenance
+50321000,[CAM] Roof Repairs,Roof R&M,Common Area Maintenance
+50325000,[CAM] Plumbing Maintenance,General Building Maintenance,Common Area Maintenance
+50335000,[CAM] Pest Control,General Building Maintenance,Common Area Maintenance
+50335010,[CAM] Pest Control - Reactive,HVAC Expense,Common Area Maintenance
+50340000,[CAM] Contract - HVAC and Mechanical,HVAC Expense,Common Area Maintenance
+50345000,[CAM] Equipment Management Contracts,Other Expenses,Common Area Maintenance
+50350000,[CAM] HVAC and Equipment - Reactive,HVAC Expense,Common Area Maintenance
+50350001,[CAM] HVAC and Equipment - Recurring,HVAC Expense,Common Area Maintenance
+50350021,[CAM] HVAC/Equipment Contracts,HVAC Expense,Common Area Maintenance
+50355000,[CAM] General Building Maintenance,General Building Maintenance,Common Area Maintenance
+50355030,[CAM] Dock Door Repairs,General Building Maintenance,Common Area Maintenance
+50355035,[CAM] Fence & Gate Repairs,General Building Maintenance,Common Area Maintenance
+50355040,[CAM] Railing Repairs,General Building Maintenance,Common Area Maintenance
+50355041,[CAM] Window Cleaning - Recurring,General Building Maintenance,Common Area Maintenance
+50355050,[CAM] Lock and Access,General Building Maintenance,Common Area Maintenance
+50355210,[CAM] Business License,General Building Maintenance,Common Area Maintenance
+50360000,[CAM] Maintenance Supplies,General Building Maintenance,Common Area Maintenance
+50365000,[CAM] Contract - Fire Life Safety,General Building Maintenance,Common Area Maintenance
+50366000,[CAM] Fire Life Safety Repairs,General Building Maintenance,Common Area Maintenance
+50385000,[CAM] Environmental Inspections and Testing,General Building Maintenance,Common Area Maintenance
+50390000,[CAM] General Maintenance Fees,General Building Maintenance,Common Area Maintenance
+50405000,[CAM] Parking Lot/Garage Repairs,General Building Maintenance,Common Area Maintenance
+50410000,[CAM] Parking Lot/Garage Cleaning,Janitorial Expense,Common Area Maintenance
+50411000,[CAM] Parking Lot Sweeping - Reactive,Janitorial Expense,Common Area Maintenance
+50505000,[CAM] Ground Rent Expense,Ground Rent,Common Area Maintenance
+50515000,[CAM] Association Fees,Other Expenses,Common Area Maintenance
+50605000,[CAM] Elevator Repairs,General Building Maintenance,Common Area Maintenance
+50610000,[CAM] Contract - Elevator,General Building Maintenance,Common Area Maintenance
+50619000,[CAM] Window and Glass Repairs,General Building Maintenance,Common Area Maintenance
+50810000,[CAM] Contract - Cleaning Services,Janitorial Expense,Common Area Maintenance
+50810028,[CAM] Cleaning Services & Bulk Trash Removal,Janitorial Expense,Common Area Maintenance
+50811000,[CAM] Debris Removal - Reactive,Janitorial Expense,Common Area Maintenance
+50811001,[CAM] Parking Lot Sweeping - Recurring,Janitorial Expense,Common Area Maintenance
+50812000,[CAM] Powerwashing - Reactive,General Building Maintenance,Common Area Maintenance
+50815000,[CAM] Janitorial Contracts - Window Cleaning,Janitorial Expense,Common Area Maintenance
+50820000,[CAM] Janitorial Contracts - Window Cleaning - One Time,Janitorial Expense,Common Area Maintenance
+50825000,[CAM] Janitorial Supplies,Janitorial Expense,Common Area Maintenance
+50830000,[CAM] Contract - Trash Removal,Janitorial Expense,Common Area Maintenance
+50905000,[CAM] Contract Landscaping - Recurring,Landscaping,Common Area Maintenance
+50905006,[CAM] Landscaping - Reactive,Landscaping,Common Area Maintenance
+50905010,[CAM] Irrigation - Reactive,Landscaping,Common Area Maintenance
+50905011,[CAM] Irrigation - Recurring,Landscaping,Common Area Maintenance
+50915000,[CAM] Snow Removal,Snow Removal,Common Area Maintenance
+51210000,[CAM] Electric,Utilities,Common Area Maintenance
+51220000,[CAM] Water & Sewer,Utilities,Common Area Maintenance
+51230000,[CAM] Gas,Utilities,Common Area Maintenance
+51240000,[CAM] Fuel Oil,Utilities,Common Area Maintenance
+51270000,[CAM] Utility Management Costs,Utilities,Common Area Maintenance
+51280000,[CAM] Utilities-Other,Utilities,Common Area Maintenance
+51290000,[CAM] Telephone/Internet Expense,Utilities,Common Area Maintenance
+51425006,[CAM] Signage,General Building Maintenance,Common Area Maintenance
+51500000,[CAM] Non Recurring Operating Expense,Other Expenses,Common Area Maintenance
+52001000,[DA] Snow Removal,Snow Removal,Other
+52002000,[DA] Elevator,General Building Maintenance,Other
+52003000,[DA] Janitorial,Janitorial Expense,Other
+52004000,[DA] General Repair,General Building Maintenance,Other
+52005000,[DA] Electric,Utilities,Other
+52006000,[DA] Water & Sewer,Utilities,Other
+52007000,[DA] Gas,Utilities,Other
+55100000,[DB] Security,Security,Direct Bill
+55300000,[DB] Repairs & Maintenance,General Building Maintenance,Direct Bill
+55305025,[DB] Plumbing and Sewer Maintenance and Repairs,General Building Maintenance,Direct Bill
+55310000,[DB] Electrical and Lighting - Reactive,General Building Maintenance,Direct Bill
+55321000,[DB] Roof Repairs,Roof R&M,Direct Bill
+55350000,[DB] HVAC and Equipment - Reactive,HVAC Expense,Direct Bill
+55350001,[DB] HVAC and Equipment - Recurring,HVAC Expense,Direct Bill
+55355030,[DB] Dock Door Repairs,General Building Maintenance,Direct Bill
+55355040,[DB] Railing Repairs,General Building Maintenance,Direct Bill
+55400000,[DB] Exterior Asphalt and Concrete,General Building Maintenance,Direct Bill
+55500000,[DB] Association Dues,Other Expenses,Direct Bill
+55619000,[DB] Window and Glass Repairs,General Building Maintenance,Direct Bill
+55700000,[DB] Electric,Utilities,Direct Bill
+55700010,[DB] Electric - Energy IQ - Pilot,Utilities,Direct Bill
+55700020,[DB] Electric - Energy IQ,Utilities,Direct Bill
+55800010,[DB] Trash,Janitorial Expense,Direct Bill
+55811000,[DB] Debris Removal - Reactive,Janitorial Expense,Direct Bill
+56200000,[DB] Water & Sewer,Utilities,Direct Bill
+56200010,[DB] Water/Sewer - Energy IQ - Pilot,Utilities,Direct Bill
+56200030,[DB] Gas - Energy IQ - Pilot,Utilities,Direct Bill
+56200060,[DB] Gas,Utilities,Direct Bill
+56200080,[DB] Telephone/Internet,Utilities,Direct Bill
+56400000,[DB] Other,Other Expenses,Direct Bill
+57100000,[NB] Security,Security,Non-Bill
+57215000,[NB] Property Management Admin Fee - External,Property Administrative Fees,Non-Bill
+57300000,[NB] Repairs and Maintenance,General Building Maintenance,Non-Bill
+57300010,[NB] Tenant Moveout Damage Repairs,General Building Maintenance,Non-Bill
+57300021,[NB] HVAC and Equipment - Reactive,HVAC Expense,Non-Bill
+57300022,[NB] Structural and Foundation Repairs,General Building Maintenance,Non-Bill
+57300023,[NB] Interior Slab Maintenance,General Building Maintenance,Non-Bill
+57400000,[NB] Exterior Asphalt and Concrete,General Building Maintenance,Non-Bill
+57505000,[NB] Ground Rent,Ground Rent,Non-Bill
+57515000,[NB] Association Fees,Other Expenses,Non-Bill
+57700000,[DNU] [NB] Vacancy Utilities,Utilities,Non-Bill
+57700010,[NB] Electric Vacancy,Utilities,Non-Bill
+57700020,[NB] Fuel Oil Vacancy,Utilities,Non-Bill
+57700030,[NB] Gas Vacancy,Utilities,Non-Bill
+57700050,[NB] Trash Vacancy,Janitorial Expense,Non-Bill
+57700060,[NB] Water/Sewer Vacancy,Utilities,Non-Bill
+57800000,[NB] Cleaning & Janitorial,Janitorial Expense,Non-Bill
+57900000,[NB] Landscaping - Recurring,Landscaping,Non-Bill
+57900065,[NB] Plumbing Maintenance and Repairs,General Building Maintenance,Non-Bill
+58200000,[NB] Electric,Utilities,Non-Bill
+58200001,[NB] Water & Sewer,Utilities,Non-Bill
+58200002,[NB] Gas,Utilities,Non-Bill
+58200003,[NB] Phone Line,Utilities,Non-Bill
+58305021,[NB] Painting and Caulking,General Building Maintenance,Non-Bill
+58310000,[NB] Electrical and Lighting - Reactive,General Building Maintenance,Non-Bill
+58350001,[NB] HVAC and Equipment - Recurring,HVAC Expense,Non-Bill
+58355030,[NB] Dock Door Repairs,General Building Maintenance,Non-Bill
+58355035,[NB] Fence & Gate Repairs,General Building Maintenance,Non-Bill
+58355040,[NB] Railing Repairs,General Building Maintenance,Non-Bill
+58355050,[NB] Lock and Access,General Building Maintenance,Non-Bill
+58410000,[NB] Tenant Relations,Other Expenses,Non-Bill
+58425000,[NB] Vacancy Repairs and Maintenance,General Building Maintenance,Non-Bill
+58425006,[NB] Signage,General Building Maintenance,Non-Bill
+58435000,[NB] License & Permits,Other Expenses,Non-Bill
+58470630,[NB] Accounting - Internal Admin Fee,Other Expenses,Non-Bill
+58615000,[NB] Elevator Repairs,General Building Maintenance,Non-Bill
+58619000,[NB] Window and Glass Repairs,General Building Maintenance,Non-Bill
+58811000,[NB] Debris Removal - Reactive,Janitorial Expense,Non-Bill
+58812000,[NB] Powerwashing - Reactive,General Building Maintenance,Non-Bill
+58900000,[NB] Landscaping - Reactive,Landscaping,Non-Bill
+58905010,[NB] Irrigation - Reactive,Landscaping,Non-Bill
+59030063,[NB] Vacancy Expense,Other Expenses,Non-Bill
+59040000,[NB] Mobile Equip R&M,Other Expenses,Non-Bill
+59050000,[NB] Geotechnical R&M,Other Expenses,Non-Bill
+59060000,[NB] Equipment Rental,General Building Maintenance,Non-Bill
+59105000,[NB] Consulting Fees,Other Expenses,Non-Bill
+59115000,[NB] Uniform Expense,Other Expenses,Non-Bill
